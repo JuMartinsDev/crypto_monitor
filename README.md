@@ -7,6 +7,12 @@ O **Crypto Monitor** é um aplicativo Android que permite acompanhar o valor e a
 O projeto original do semestre passado utilizava **layouts em XML**, e nesta versão ele foi migrado para **Jetpack Compose**, mantendo **toda a funcionalidade original**. Ou seja, a interface agora é declarativa, mas a lógica de consulta e exibição dos dados permanece a mesma.
 
 ---
+## Dupla
+
+Julia Martins de Almeida Antunes RM98601
+Ana Luisa Giaquinto Zólio RM99348
+
+---
 
 ## Objetivos da migração
 
