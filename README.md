@@ -100,6 +100,8 @@ Isso permite código mais limpo, manutenção mais fácil e melhor desempenho de
 
 <img width="487" height="755" alt="image" src="https://github.com/user-attachments/assets/5d7d10d0-2859-46c2-a030-ddf60f6d6ac4" />
 
+---
+
 <img width="450" height="835" alt="image" src="https://github.com/user-attachments/assets/6b2c36ec-2bfb-46fa-a764-e7512cdffc32" />
 
 
